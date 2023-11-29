@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Llamalingo.Views.MainMenu"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="LamaLingo"
+                   FontSize="60"
+                   Margin="0,30,0,0"
+                   TextColor="MediumPurple"
+                   HorizontalTextAlignment="Center" />
+            <Image Source="Resources/llamaMenu"
+                   Margin="0,120,0,0"
+                   WidthRequest="200" 
+                   HeightRequest="200" 
+                   Aspect="AspectFit"/>
+            <Entry Keyboard="Default"
+                   Placeholder="nombre"
+                   PlaceholderColor="Gray"
+                   Margin="80,110,80,0"
+                   TextColor="White"
+                   FontSize="Large"
+                   Text="{Binding Name}"/>
+            <Button Text="Start!"
+                    CornerRadius="10"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    Margin="80,10,80,0"
+                    BackgroundColor="Bisque"
+                    TextColor="Black"
+                    Command="{Binding AsynchProcessCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

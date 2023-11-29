@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Views\MainMenu.xaml.g.cs
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.AssemblyInfo.cs
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\Llamalingo.deps.json
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\Llamalingo.dll
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\ref\Llamalingo.dll
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\Llamalingo.pdb
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.dll
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\refint\Llamalingo.dll
+C:\Users\User\Desktop\UCSP\Desarrollo basado en plataforma\Xamarin\CV Dinámico\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.pdb
+D:\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\Llamalingo.deps.json
+D:\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\Llamalingo.dll
+D:\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\ref\Llamalingo.dll
+D:\Llamalingo\Llamalingo\Llamalingo\bin\Debug\netstandard2.0\Llamalingo.pdb
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.csproj.AssemblyReference.cache
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Views\MainMenu.xaml.g.cs
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.AssemblyInfoInputs.cache
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.AssemblyInfo.cs
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.csproj.CoreCompileInputs.cache
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.dll
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\refint\Llamalingo.dll
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Llamalingo.pdb
+D:\Llamalingo\Llamalingo\Llamalingo\obj\Debug\netstandard2.0\Views\Q1.xaml.g.cs

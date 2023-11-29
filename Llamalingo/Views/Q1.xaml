@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Llamalingo.Views.Q1"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid>
+            <!-- Row Definitions -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <!-- Column Definitions -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="{Binding Name, StringFormat='Student: {0}'}" 
+                   Grid.Row="0" 
+                   Grid.Column="0" 
+                   Grid.ColumnSpan="2"
+                   Margin="0, 0, 0, 0"
+                   TextColor="White"
+                   FontSize="Large"
+                   HorizontalTextAlignment="Start"/>
+
+            <Label Text="{Binding Activity, StringFormat='Traduce the following sentence into spanish: {0}'}" 
+                   Grid.Row="1" 
+                   Grid.Column="0" 
+                   Grid.ColumnSpan="3"
+                   Margin="0, 10, 0, 10"
+                   TextColor="Aqua"
+                   FontSize="Large"
+                   HorizontalTextAlignment="Center"/>
+
+            <Label Text="&lt;3 &lt;3 &lt;3"
+                   Grid.Row="0" 
+                   Grid.Column="2" 
+                   Margin="0, 10, 0, 0"
+                   TextColor="Red"
+                   HorizontalTextAlignment="End"
+                   FontSize="Large"/>
+            <Frame HasShadow="False"
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="3"
+                   CornerRadius="15"
+                   Margin="20, 150, 20, -30">
+
+                <Entry Keyboard="Text"
+                       Placeholder="Write your answer here."
+                       HorizontalTextAlignment="Center"
+                       PlaceholderColor="Gray"
+                       TextColor="Black"
+                       FontSize="Large"
+                       Text="{Binding Answer}"/>
+
+            </Frame>
+
+            <Button Text="Check"
+                    Grid.Row="2"
+                    Grid.Column="1"
+                    CornerRadius="10"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    Margin="-80,180,-80,30"
+                    BackgroundColor="GreenYellow"
+                    TextColor="Black"
+                    Command="{Binding AsynchProcessCommand}"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
